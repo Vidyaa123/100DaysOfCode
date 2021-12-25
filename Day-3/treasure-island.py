@@ -1,13 +1,13 @@
 print("WELCOME TO TREASURE ISLAND")
 print("Your mission is to find the treaure")
 print("Let's GO!!")
-step1 = input("Do you want to go left or right - press l or r  :")
+step1 = input("Do you want to go left or right - press l or r  :").lower()
 if step1 == "l" :
     print("You have reached a Lake")
-    step2 = input("Do you want to swim or wait for a boat - press s or w :")
+    step2 = input("Do you want to swim or wait for a boat - press s or w :").lower()
     if step2 == 'w':
         print("you take a boat and reach the island in the lake")
-        step3 = input("There is a small cottage with three doors, red, blue and yellow - Press r,b or y to enter :")
+        step3 = input("There is a small cottage with three doors, red, blue and yellow - Press r,b or y to enter :").lower()
         if step3 == 'r':
             print("You are burned... GAME OVER")
             exit()
