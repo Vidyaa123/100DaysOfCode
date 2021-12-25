@@ -1,4 +1,4 @@
-print("*******TIP Calculator*******")
+print("*******SPLIT BILL*******")
 totamt = float(input("Enter the total amount:-£"))
 tip = int(input("Enter the tip amount 10, 15, 20 :-"))
 noppl = int(input("Enter number of people to share:-"))
