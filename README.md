@@ -15,3 +15,7 @@ Used conditional if elif statements to play a simple interactive trasure island 
 ### Day 4 of 100DaysOfCode
 #### RANDOM PASSWORD GENERATOR
 Used list.append(),for loops, string.ascii methods and random.shuffle() to create a random :secret: password
+
+### Day 5 of 100DaysOfCode
+#### HANGMAN
+Used random(), modules, functions, while, for loop and lists.
