@@ -22,4 +22,6 @@ print(random_char)
 
 #shuffle the generated password sequence
 random.shuffle(random_char)
-print("Your NEW password :- "random_char)
+for x in random_char: 
+    print(x, end='')
+print()
