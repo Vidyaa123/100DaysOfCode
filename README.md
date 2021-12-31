@@ -19,3 +19,7 @@ Used list.append(),for loops, string.ascii methods and random.shuffle() to creat
 ### Day 5 of 100DaysOfCode
 #### HANGMAN
 Used random(), modules, functions, while, for loop and lists.
+
+### Day 6 of 100DaysOfCode
+#### CAESER CIPHER 
+Used basic python string functions to encode or decode a message
