@@ -25,7 +25,7 @@ print(string.ascii_letters)
 if en_de == 'e':
     print("Encoded message:-" +encode_message(message, shift))
 elif en_de == 'd':
-    print("Decoded Message -"+decode_message(message, shift))
+    print("Decoded Message -"+adecode_message(message, shift))
 else:
     print("Wrong input - Enter either e or d")
 
