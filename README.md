@@ -27,3 +27,11 @@ Used basic python string functions to encode or decode a message
 ### Day 7 of 100DaysOfCode
 #### SECRET BIDDING 💰 💸
 Used dictionaries and os system clear method
+
+### Day 8 of 100DaysOfCode
+#### SCRAPE JOBSITE  🧑‍💼 👩‍💻
+Used Beautiful Soup to extract latest job updates to a CSV file
+
+### Day 9 of 100DaysOfCode
+#### TOWER OF HANOI 
+Used Recusrion to solve this problem
